@@ -1,6 +1,6 @@
 # Alien Management System
 
-A **Spring Boot** learning project built with **Java 17** that demonstrates basic CRUD operations using **both MVC and REST APIs**. The application integrates **H2 in-memory database** and **MongoDB** for learning purposes and includes **JSP pages for UI** along with **Swagger documentation** for REST endpoints.
+A **Spring Boot** learning project built with **Java 23** that demonstrates basic CRUD operations using **both MVC and REST APIs**. The application integrates **H2 in-memory database** and **MongoDB** for learning purposes and includes **JSP pages for UI** along with **Swagger documentation** for REST endpoints.
 
 ---
 
@@ -19,7 +19,7 @@ A **Spring Boot** learning project built with **Java 17** that demonstrates basi
 
 ## 📦 Technologies Used
 
-- **Java:** 17  
+- **Java:** 23  
 - **Spring Boot:** 3.x  
 - **Databases:** H2, MongoDB  
 - **View:** JSP  
@@ -33,7 +33,7 @@ A **Spring Boot** learning project built with **Java 17** that demonstrates basi
 
 ### Prerequisites
 
-- Java 17 installed  
+- Java 23 installed  
 - Maven installed  
 - Cloud MongoDB which can be created using mongodb atlas 
 - Optional: H2 console (runs in-memory, no extra setup required)
