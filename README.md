@@ -59,7 +59,7 @@ Swagger UI (REST endpoints): http://localhost:8080/swagger-ui/index.html
 
 ---
 
-##⚙️ **Notes**
+## ⚙️ **Notes**
 
 Learning purpose: MongoDB and H2 are used together to explore multiple datasources.
 
@@ -67,7 +67,7 @@ The project demonstrates basic CRUD, JSP integration, Spring Boot REST APIs, and
 
 ---
 
-##📌 **References**
+## 📌 **References**
 
 [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 
@@ -79,7 +79,7 @@ The project demonstrates basic CRUD, JSP integration, Spring Boot REST APIs, and
 
 ---
 
-##📝 **License**
+## 📝 **License**
 
 This project is for learning and educational purposes.
 
