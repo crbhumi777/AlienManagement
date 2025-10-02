@@ -45,15 +45,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/crbhumi777/alien-management.git
 cd alien-management
+```
 
 Build and run the application:
 
 ```bash
 mvn spring-boot:run
+```
 
 Home Page (MVC): http://localhost:8080
 
 Swagger UI (REST endpoints): http://localhost:8080/swagger-ui/index.html
+
+---
 
 ##⚙️ **Notes**
 
@@ -61,7 +65,9 @@ Learning purpose: MongoDB and H2 are used together to explore multiple datasourc
 
 The project demonstrates basic CRUD, JSP integration, Spring Boot REST APIs, and Swagger documentation.
 
-##📌 References
+---
+
+##📌 **References**
 
 [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 
