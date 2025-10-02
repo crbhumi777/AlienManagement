@@ -77,7 +77,9 @@ The project demonstrates basic CRUD, JSP integration, Spring Boot REST APIs, and
 
 [Swagger UI](https://swagger.io/tools/swagger-ui/)
 
-##📝 License
+---
+
+##📝 **License**
 
 This project is for learning and educational purposes.
 
